@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    padding-inline: 2rem;
+}
+
+main {
+    padding: 2rem;
+    display: grid;
+    min-height: 100vh;
+    place-items: center;
+}
+
+nav {
+    align-self: start;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    list-style: none;
+}
+
+h2 {
+    font-size: 5rem;
+}

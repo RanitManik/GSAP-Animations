@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: rgb(0, 0, 0);
+    display: grid;
+    place-items: center;
+    align-content: center;
+}
+
+div {
+    width: 20vh;
+    height: 20vh;
+}
+
+#box-1 {
+    background: red;
+}
+
+#box-2 {
+    background: blue;
+}
+
+#box-3 {
+    background: green;
+}

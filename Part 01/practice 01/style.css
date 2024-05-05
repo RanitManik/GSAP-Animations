@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    display: grid;
+    place-items: center;
+    align-content: center;
+    min-height: 100vh;
+}
+
+#box-1 {
+    height: 30vh;
+    width: 30vh;
+    background: red;
+}
+#box-2 {
+    height: 30vh;
+    width: 30vh;
+    background: red;
+    border-radius: 50%;
+}

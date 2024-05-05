@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    display: grid;
+    place-items: center;
+    align-content: center;
+}
+
+h1 {
+    font-size: 6rem;
+    line-height: 1.25;
+}
