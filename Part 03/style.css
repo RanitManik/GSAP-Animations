@@ -8,10 +8,12 @@ body {
     background-color: rgb(0, 0, 0);
 }
 
+svg {
+    fill: rgba(255, 255, 255, 0.1);
+}
+
 #string {
     height: 400px;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    width: min(100%, 1000px);
+    margin: auto;
 }
