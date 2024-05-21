@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+#page-1, #page-2, #page-3 {
+    min-height: 100vh;
+    background-color: rgb(0, 0, 0);
+}
+
+#page-2 {
+    background-color: #3e98ff;
+    padding-block: 5vw;
+}
+
+#page-2 h1 {
+    font-size: calc(3rem + 20vw);
+    font-family: Inter, sans-serif;
+    text-transform: uppercase;
+    white-space: nowrap;
+    font-weight: 700;
+}
