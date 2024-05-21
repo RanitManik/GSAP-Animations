@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #111;
+    font-family: Inter, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+body > * {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    align-content: center;
+}
+
+main {
+    background: navajowhite;
+}
+
+header {
+    background: antiquewhite;
+}
+
+h1 {
+    font-size: calc(2.5vw + 2.5rem);
+    background: #cb6969;
+    color: white;
+    padding-inline: 5rem;
+    padding-block: 1rem;
+    border-radius: 1rem;
+}
+
+h2 {
+    font-size: calc(1.5vw + 1.5rem);
+    background: #ef9f81;
+    color: white;
+    padding-inline: 5rem;
+    padding-block: 1rem;
+    border-radius: 1rem;
+}
+
+footer {
+    background: aquamarine;
+}
