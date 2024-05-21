@@ -13,7 +13,7 @@ stunning animations using the GreenSock Animation Platform (GSAP).
 | 03 | [Part 01/03](https://github.com/RanitManik/GSAP-Animations/tree/main/Part%2001/practice%2003) | [live link](https://ranitmanik.github.io/GSAP-Animations/Part%2001/practice%2003/index.html) |
 | 04 | [Part 01/04](https://github.com/RanitManik/GSAP-Animations/tree/main/Part%2001/practice%2004) | [live link](https://ranitmanik.github.io/GSAP-Animations/Part%2001/practice%2004/index.html) |
 
-### part 2
+### Part 2
 
 | No | Code                                                                                          | Live Link                                                                                    |
 |----|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
