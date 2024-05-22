@@ -27,3 +27,9 @@ stunning animations using the GreenSock Animation Platform (GSAP).
 | No | Code                                                                            | Live Link                                                                      |
 |----|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | 09 | [Part 03/01](https://github.com/RanitManik/GSAP-Animations/tree/main/Part%2003) | [live link](https://ranitmanik.github.io/GSAP-Animations/Part%2003/index.html) |
+
+### Part 4
+
+| No | Code                                                                            | Live Link                                                                      |
+|----|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| 09 | [Part 04/01](https://github.com/RanitManik/GSAP-Animations/tree/main/Part%2004) | [live link](https://ranitmanik.github.io/GSAP-Animations/Part%2004/index.html) |
